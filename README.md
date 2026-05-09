@@ -19,6 +19,7 @@ It was created for Git & GitHub training.
 ![Screenshot 6](images/screenshot6.png)
 ![Screenshot 7](images/screenshot7.png)
 ![Screenshot 8](images/screenshot8.png)
+![Screenshot 9](images/screenshot9.png)
 
 ## How to Run
 1. Clone the repository
