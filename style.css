@@ -5,7 +5,7 @@ body {
 
 /* Navbar */
 .navbar {
-  background: #333;
+  background: #053480 !important;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -33,7 +33,7 @@ body {
 
 /* Footer */
 footer {
-  background: #333;
+  background: #053480 !important;
   color: white;
   text-align: center;
   padding: 10px;
