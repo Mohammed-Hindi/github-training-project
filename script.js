@@ -1,0 +1,1 @@
+console.log("Git Training Project is running...");
